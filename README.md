@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
