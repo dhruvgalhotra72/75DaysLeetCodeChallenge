@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
