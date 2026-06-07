@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
