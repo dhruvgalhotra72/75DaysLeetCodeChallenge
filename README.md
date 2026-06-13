@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -240,11 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/dhruvgalhotra72/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
